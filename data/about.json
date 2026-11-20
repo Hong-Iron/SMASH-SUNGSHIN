@@ -1,0 +1,34 @@
+{
+ "region": "서울 성북구 동선동",
+ "nameEn": "Sungshin Women's University",
+ "added": "2026-10-24",
+ "rank": 147,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KU",
+   "campus": "고려대학교 서울캠퍼스",
+   "km": 0.8
+  },
+  {
+   "code": "HANSUNG",
+   "campus": "한성대학교",
+   "km": 1.4
+  },
+  {
+   "code": "DONGDUK",
+   "campus": "동덕여자대학교",
+   "km": 2.4
+  },
+  {
+   "code": "SNU-YEONGEON",
+   "campus": "서울대학교 연건캠퍼스",
+   "km": 2.4
+  },
+  {
+   "code": "SKKU",
+   "campus": "성균관대학교 인문사회과학캠퍼스",
+   "km": 2.6
+  }
+ ]
+}
